@@ -1,0 +1,63 @@
+#ifndef PUBLIC_PARAMETER_H
+#define PUBLIC_PARAMETER_H
+
+#define WINDOW_WIDTH  1050  //窗口宽度
+#define WINDOW_HEIGHT 700  //窗口高度
+#define COL 9
+#define ROW 5
+#define GAME_TITLE "Plant vs. Zombies"
+
+
+#define GAME_BACKGROUND  ":/picture/court2.png"
+#define GAME_GAMESTORE ":/picture/board.png"
+#define GAME_BOARDSUNFLOWER ":/picture/sunFlowerOnMenu.png"
+#define GAME_BOARDSHOOTER ":/picture/shooterOnMenu.png"
+#define GAME_BOARDICESHOOTER ":/picture/iceShooterOnMenu.png"
+#define GAME_BOARDDOUBLESHOOTER ":/picture/dbShooterOnMenu.png"
+#define GAME_BOARDNUT ":/picture/nutOnMenu.png"
+#define GAME_BOARDBOMB ":/picture/bombOnMenu.png"
+#define GAME_BOARDSQUASH ":/picture/squashOnMenu.png"
+#define GAME_BOARDPUMPKIN ":/picture/pumpkinOnMenu.png"
+#define GAME_BOARDGARLIC ":/picture/onionOnMenu.png"
+#define GAME_BOARTALLNUT ":/picture/highNutOnMenu.png"
+#define GAME_SUNSHINE ":/picture/Sunshine.png"
+#define C_SHOOTER ":/picture/coolshooter.png"
+#define C_DB ":/picture/cooldb.png"
+#define C_ICE ":/picture/coolice.png"
+#define C_BOMB ":/picture/coolbomb.png"
+#define C_SQUASH ":/picture/coolsquash.png"
+#define C_GARLIC ":/picture/coolgarlic.png"
+#define C_FLOWER ":/picture/coolflower.png"
+#define C_NUT ":/picture/coolnut.png"
+#define C_TN ":/picture/cooltn.png"
+#define ZOMBIE ":/picture/zombie.png"
+#define FROZEN_ZOMBIE ":/picture/Zombie_frozen.png"
+#define CONEHEAD_ZOMBIE ":/picture/Coneheadzombie.png"
+#define FROZEN_CONEHEAD_ZOMBIE ":/picture/Coneheadzombie_frozen.png"
+#define JACK_IN_THE_BOX_ZOMBIE ":/picture/JackInTheBox.png"
+#define FROZEN_JACK_IN_THE_BOX_ZOMBIE ":/picture/JackInTheBoxFrozen.png"
+#define NEWSPAPER_ZOMBIE_PAPER ":/picture/Newspaperzombie.png"
+#define FROZEN_NEWSPAPER_ZOMBIE_PAPER ":/picture/Newspaperzombie_frozen.png"
+#define NEWSPAPER_ZOMBIE_EMPTY ":/picture/Newspaperzombie_1.png"
+#define FROZEN_NEWSPAPER_ZOMBIE_EMPTY ":/picture/Newspaperzombie_1_frozen.png"
+#define POLE_VAULTING_ZOMBIE ":/picture/Vaultingzombie.png"
+#define FROZEN_POLE_VAULTING_ZOMBIE ":/picture/Vaultingzombie_frozen.png"
+#define POLE_VAULTING_ZOMBIE_JUMPED ":/picture/Vaultingzombie_1.png"
+#define FROZEN_POLE_VAULTING_ZOMBIE_JUMPED ":/picture/Vaultingzombie_1_frozen.png"
+#define SHOOTER ":/picture/Peashooter.png"
+#define REPEATER ":/picture/Repeater.png"
+#define ICESHOOTER ":/picture/Snowpea.png"
+#define SUNFLOWER ":/picture/sunFlower.png"
+#define NUT ":/picture/Wallnut.png"
+#define TALLNUT ":/picture/Tallnut.png"
+#define CHERRY ":/picture/Cherrybomb.png"
+#define SQUASH ":/picture/squash.png"
+#define GARLIC ":/picture/Garlic.png"
+#define PEA ":/picture/ProjectilePea.png"
+#define SNOWPEA ":/picture/ProjectileSnowPea.png"
+#define GAME_OVER ":/picture/gameover_img.png"
+#define CHERRY_EXPLODE ":/picture/explode2.png"
+#define ZOMBIE_EXPLODE ":/picture/Cherrybomb_1.png"
+#define PUMPKIN ":/picture/pumpkin2.png"
+
+#endif // PUBLIC_PARAMETER_H
